@@ -73,8 +73,8 @@ rộng và bảo trì.
 
 ## Màn ảnh màn hình
 
-![Giao diện màn hình chính](img/img/home.png)
+![Giao diện màn hình chính](./img/home.png)
 
 ## Màn hình Setting
 
-![Giao diện màn hình Setting](img/img/setting.png)
+![Giao diện màn hình Setting](./img/setting.png)
