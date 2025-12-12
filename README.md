@@ -69,23 +69,4 @@ rộng và bảo trì.
 
     flutter run
 
-------------------------------------------------------------------------
 
-## 🔑 API Key
-
-Thêm API key vào file:
-
-    lib/utils/constants.dart
-
-------------------------------------------------------------------------
-
-## 🤝 Đóng góp
-
-Nếu bạn muốn mở rộng thêm tính năng hoặc cải thiện UI, hãy tạo pull
-request hoặc issue.
-
-------------------------------------------------------------------------
-
-## 📩 Liên hệ
-
-Bạn cần cập nhật README theo style khác? Hãy nói để mình chỉnh sửa tiếp!
