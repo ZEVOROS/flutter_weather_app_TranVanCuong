@@ -2,6 +2,19 @@
 
 Ứng dụng thời tiết sử dụng Flutter -- hỗ trợ xem thời tiết theo vị trí,
 tìm kiếm địa điểm, dự báo theo giờ và theo ngày.\
+Project được xây dựng theo kiến trúc **Provider + Service Layer**, dễ mở
+rộng và bảo trì.
+
+------------------------------------------------------------------------
+
+## 🚀 Tính năng chính
+
+-   Lấy thời tiết theo vị trí hiện tại\
+-   Tìm kiếm địa điểm\
+-   Dự báo theo giờ & ngày\
+-   Chế độ tối -- sáng\
+-   Hoạt động offline\
+-   Kiểm tra kết nối mạng
 
 ------------------------------------------------------------------------
 
@@ -56,4 +69,12 @@ tìm kiếm địa điểm, dự báo theo giờ và theo ngày.\
 
     flutter run
 
+------------------------------------------------------------------------
 
+## Màn ảnh màn hình
+
+![Giao diện màn hình chính](img/img/home.png)
+
+## Màn hình Setting
+
+![Giao diện màn hình Setting](img/img/setting.png)
